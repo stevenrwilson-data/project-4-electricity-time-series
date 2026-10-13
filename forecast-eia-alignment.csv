@@ -1,0 +1,4 @@
+"alignment","shift_hours","mae_mw","mean_signed_error_mw"
+"Same row: forecast[t] vs demand[t]",0,2995.25046816479,-2844.9611423221
+"Next hour: forecast[t] vs demand[t+1]",1,3728.99250936329,-2854.40168539326
+"Previous hour: forecast[t] vs demand[t-1]",-1,3087.86376404494,-2834.52106741573

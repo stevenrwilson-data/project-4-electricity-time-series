@@ -1,0 +1,5 @@
+"model","mae_mw"
+"Seasonal naive 24h",1796.5472846442
+"Fourier ARIMA — trailing 56 days",1803.06598893721
+"Fourier ARIMA — all history",2359.23922482518
+"Official EIA — best tested alignment",2995.25046816479
